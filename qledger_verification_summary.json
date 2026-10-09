@@ -1,0 +1,10 @@
+{
+  "project": "Q-Ledger",
+  "dataset_records": 1000,
+  "signature_algorithm": "ML-DSA-65",
+  "hash_algorithm": "SHA-256",
+  "valid_signatures": 1000,
+  "invalid_signatures": 0,
+  "hash_chain_valid": true,
+  "tamper_detection_test": "Passed"
+}

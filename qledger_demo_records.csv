@@ -1,0 +1,11 @@
+land_record_id,district,taluk,village,land_area_acres,land_type,irrigation_source,soil_type,usage_type,record_status
+DEMO-001,Salem,Taluk-C,Village-9,8.64,Wet Land,Canal,Alluvial Soil,Commercial,Pending Verification
+DEMO-002,Trichy,Taluk-B,Village-3,8.67,Wet Land,River,Black Cotton Soil,Residential,Under Dispute
+DEMO-003,Erode,Taluk-C,Village-10,4.89,Wet Land,Borewell,Red Soil,Agricultural,Under Dispute
+DEMO-004,Trichy,Taluk-A,Village-19,8.98,Dry Land,Tank,Red Soil,Commercial,Active
+DEMO-005,Salem,Taluk-C,Village-12,2.78,Dry Land,Rain-fed,Sandy Soil,Residential,Pending Verification
+DEMO-006,Erode,Taluk-B,Village-1,6.31,Wet Land,Rain-fed,Red Soil,Residential,Pending Verification
+DEMO-007,Salem,Taluk-D,Village-19,4.09,Dry Land,River,Alluvial Soil,Agricultural,Under Dispute
+DEMO-008,Trichy,Taluk-C,Village-20,3.79,Dry Land,Borewell,Alluvial Soil,Commercial,Under Dispute
+DEMO-009,Salem,Taluk-C,Village-19,4.34,Dry Land,River,Red Soil,Residential,Under Dispute
+DEMO-010,Coimbatore,Taluk-D,Village-2,8.61,Wet Land,Canal,Black Cotton Soil,Agricultural,Under Dispute
